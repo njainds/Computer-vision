@@ -1,0 +1,14 @@
+Image classification using Pytorch:
+https://medium.com/@14prakash/almost-any-image-classification-problem-using-pytorch-i-am-in-love-with-pytorch-26c7aa979ec4
+
+Autoencoders in Computer Vision:
+https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases/
+
+Developing an OCR using Deep learning:
+https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/
+
+checklist/steps for building a CNN:
+https://khanna.cc/blog/structuring-deep-learning-projects/
+
+Common architectures of CNN:
+https://www.jeremyjordan.me/convnet-architectures/
