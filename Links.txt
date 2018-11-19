@@ -12,3 +12,8 @@ https://khanna.cc/blog/structuring-deep-learning-projects/
 
 Common architectures of CNN:
 https://www.jeremyjordan.me/convnet-architectures/
+
+Object detection and segmentation (Mask RCNN & U-Net)
+https://medium.com/@keremturgutlu/semantic-segmentation-u-net-part-1-d8d6f6005066
+https://github.com/matterport/Mask_RCNN/tree/master
+
