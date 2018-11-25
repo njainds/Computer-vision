@@ -1,2 +1,5 @@
 1.DeepFace: Closing the Gap to Human-Level Performance in Face Verification
 https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf
+2. Image ranking based on quality:
+https://arxiv.org/pdf/1709.05424.pdf
+3. 
