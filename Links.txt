@@ -17,3 +17,5 @@ Object detection and segmentation (Mask RCNN & U-Net)
 https://medium.com/@keremturgutlu/semantic-segmentation-u-net-part-1-d8d6f6005066
 https://github.com/matterport/Mask_RCNN/tree/master
 
+Practical Guide to Effectively Train ConvNets by Andrej Kalparthy
+http://karpathy.github.io/2019/04/25/recipe/
