@@ -4,3 +4,5 @@ https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf
 https://arxiv.org/pdf/1709.05424.pdf
 3. Batch normalisation:
 https://arxiv.org/pdf/1502.03167v3.pdf
+4. Distilling your ensemble into a network using dark knowledge
+https://arxiv.org/abs/1503.02531
