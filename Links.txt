@@ -19,3 +19,6 @@ https://github.com/matterport/Mask_RCNN/tree/master
 
 Practical Guide to Effectively Train ConvNets by Andrej Kalparthy
 http://karpathy.github.io/2019/04/25/recipe/
+
+Distributed Training Imagenet in 1 hour by FAIR using Large Batch size:
+https://arxiv.org/pdf/1706.02677.pdf
