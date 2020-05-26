@@ -22,3 +22,10 @@ http://karpathy.github.io/2019/04/25/recipe/
 
 Distributed Training Imagenet in 1 hour by FAIR using Large Batch size:
 https://arxiv.org/pdf/1706.02677.pdf
+
+Open-Sourcing BiT: Exploring Large-Scale Pre-training for Computer Vision
+https://ai.googleblog.com/2020/05/open-sourcing-bit-exploring-large-scale.html
+
+Weight Standardization used together with Batch Normalization for effective training in case of micro batch size.
+https://arxiv.org/pdf/1903.10520.pdf
+https://github.com/joe-siyuan-qiao/WeightStandardization
